@@ -1,0 +1,12 @@
+name: Final reusable caller
+on:
+  pull_request:
+    branches: [dev, main]
+permissions:
+  contents: read
+jobs:
+  ci:
+    uses: betabitplus-template-lab/automation/.github/workflows/final-reusable-smoke.yml@a5cd8112c8e8b221dceb397c1e882a9a25148b86
+    with:
+      fail-intentionally: false
+    secrets: inherit
