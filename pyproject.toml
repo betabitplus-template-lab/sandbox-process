@@ -26,7 +26,7 @@ classifiers = [
 ]
 # --- Main Dependencies ---
 dependencies = [
-  "py-lib-runtime @ git+https://github.com/betabitplus/py-lib-starter.git@v0.32.4#subdirectory=packages/py-lib-runtime",
+  "py-lib-runtime @ git+https://github.com/betabitplus/py-lib-starter.git@v0.32.3#subdirectory=packages/py-lib-runtime",
 ]
 # --- Project URLs ---
 urls."Bug Tracker" = "https://github.com/betabitplus-template-lab/sandbox-process/issues"
