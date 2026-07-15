@@ -1,4 +1,4 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["local>betabitplus-template-lab/automation//renovate/presets/downstream.json5#f39049a9df37e4f99b932658b01a310f10dacfd1"]
+  "extends": ["local>betabitplus-template-lab/automation//renovate/presets/downstream.json5#0fef7390a783e29ea1bd4175cc152a87aef19a06"]
 }
