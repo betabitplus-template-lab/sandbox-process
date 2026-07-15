@@ -37,3 +37,5 @@ workspace_python_paths:
 - src
 workspace_test_paths:
 - tests
+
+#copier updated
