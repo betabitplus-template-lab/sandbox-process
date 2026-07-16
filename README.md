@@ -1,5 +1,7 @@
 # Sandbox Process
 
+This repository exercises the review-gated `dev` to `main` promotion process.
+
 A reusable Python library.
 
 Template updates are delivered through versioned Copier releases.
